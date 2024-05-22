@@ -1,0 +1,18 @@
+Q2: Is Evernote a Software Product Line or a Software as a Service (SaaS)? Explain and Justify Your Response.
+
+Yes, Evernote is a software product line or software as a service, Evernote is a software as a service and also its operational features their services and Service delivery.
+
+ Evernote is a most proper organized software till now as I mentioned that it is a (SaaS) model, so it is a subscription-based service access with provide subscription and their subscription plan also provide provided it will not offer a different subscription plan including professional terms, In Evernote their users choose this subscribes plants on a monthly basis and annual basis.
+Software as a service model is the payment pattern or payment model access to their service and premium features. so, this structure is a defined the characteristic of sales model and allows user to grow their use users according their requirement the cloud-based service of Evernote is the base basic service.
+
+Evernote stores every uses data on its Cloud Server including all document videos notes, photos. With this storage method customer or user can access the data from any Internet devices which connected to the internet device. And this real time synchronization makes any modification they want to make instant reflected note on all the device are connected to that note account this says application of was this degree or synchronization and accessible accessibility which boots easy and productive while guarantee that their data secure or privacy handled by Evernote software. 
+
+Moreover, Evernote also offers maintains upgrades maintenance upgrades, and the program is automatically updated without users input and new ad features enhance announcement functionally and true issues. This fundamental component of SaaS model by guarantee users have access to most current version of application or software. For more, Evernote Provides every technology maintenance which ensure consistent user experience and this also includes security and server maintained and improved speed.
+
+Furthermore, Evernote SaaS nature is further in the several platforms and their platform web browser windows and MacOS and also provide Android and iOS software are among the platform. These Services also accessible and guaranteed that they ensure consistent experience of user across deliver all devices. Enabling users to start hope any disturbance.
+
+Last but not least, Evernote delivers a single unified product with various different features sets unlocked various membership plan or subscription plan rate. Evernote adds a new features and very unique product to its main product, this product is depending on membership level and you should level differences and uniqueness of the product. this method is in line with the software as a service which emphasize flexibility of customer and scalability ongoing enhancement to delivered to wide range of user requirement.
+
+To sum up, Evernote subscription based and cloud-based services with real time syncing ongoing updated and maintain and cross platform availability make it a Software as a service (SaaS). Although the different subscription plan offers varying degrees of strong and new enhance feature access. So, they don’t from another software product line. Rather they correspond to standard feature of SaaS offering and also represent tires of access to single and best SaaS Solution.  
+
+So, behalf of this condition and justification we can say that Evernote is Software product line or a SaaS Software as a service.
