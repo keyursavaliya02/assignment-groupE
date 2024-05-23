@@ -1,0 +1,94 @@
+5. You own a software company that supports audits done by civil and mechanical engineers. The software has originally been sold to private and municipal organizations that monitor buildings and infrastructure (bridges, roads, etc). You would like to integrate Evernote into your product. The hope is that Evernote will provide improved note-taking and appointment functionality.
+Set up your JIRA project created in step 4 to assist with this change. Ensure that your project follows conventions found in the text.
+You should do the following: develop a sample persona, at least two scenarios and associated user stories for your potential product.
+Backlog. Create a list of items to should be tackled. At this point, there is no need to include implementation items.
+Sprint. Use the backlog to create your first sprint.
+
+Answer:
+Persona:
+Name: David
+Age: 30
+Working as a Civil Engineer
+Background: David is a committed civil engineer who works for a local government agency that is in charge of keeping an eye on public structures, roads, and bridges. David has a degree in structural engineering and is committed to making sure the community's infrastructure is safe and reliable.
+Scenarios:
+First Scenario: Effective Note-Taking in Audits
+In order to evaluate a bridge's structural soundness and pinpoint any possible repair requirements, David is auditing it. He must take thorough notes and pictures while she examines the bridge's various parts in order to record her findings.
+Scenario 2: Organizing the Audit Team's Appointments
+Sarah is in charge of an engineering team auditing a significant road project. To ensure thorough coverage of the project region, she must arrange for each team member's appointment and oversee their site visits.
+
+Users Stories:
+First User Story: Using Evernote to Take Notes
+I want the audit software to interface with Evernote so that, as a civil engineer performing infrastructure asset audits, I can take full notes and take pictures during inspections to ensure complete documentation of my findings.
+Acceptance Criteria: 
+- The program must seamlessly integrate with Evernote so that I can use the audit interface to access my Evernote account.
+It should be possible for me to make new notes and link them to certain inspection sites or audit projects.
+- The software need to facilitate the insertion of text, pictures, and drawings into notes, allowing me to record comprehensive details regarding the state of infrastructure assets.
+- The audit software ought to instantly sync any notes that are made or changed with my Evernote account, guaranteeing that all documentation is current and available on all devices.
+
+User Story 2: 
+Integrating Evernote with Appointment Management
+I want the audit program to link with Evernote's appointment capability so that, as a civil engineer managing a team of inspectors, I can effectively book and manage appointments for my team members.
+Acceptance Criteria: - I should be able to synchronize my calendar entries from Evernote with the audit software to view all of my scheduled site visits and appointments.
+- The audit software should allow me to make new appointments easily, including the day, time, place, and team members allocated to each one.
+- Reminders and notices for forthcoming appointments ought to be included in the software, assisting my team and myself in maintaining organization and punctuality.
+- To ensure consistency and accuracy in scheduling, any modifications or additions to appointments made in the audit program ought to be automatically mirrored in my Evernote calendar.
+
+
+
+Backlogs:
+1. Improvement of User Experience 
+2. Adaptability to Mobile Devices 
+3. Compliance and Data Security 
+4. Integrating External Systems 
+5. Sophisticated Reporting and Analytics 
+6. Instruction and Assistance Materials 
+7. Development in New Markets 
+8. Innovation and Constant Improvement
+
+Sprints:
+First Sprint:
+Improving User Experience
+
+Objective: 
+Using our software, let civil and mechanical engineers audit more quickly and efficiently. 
+
+Duration: 2 weeks 
+
+Backlog Items: 
+
+1. User input Sessions:
+ - Arrange and carry out sessions for user input with a representative group of the software's present users. 
+- Examine comments to find common problems and opportunities for development. 
+
+2. User Interface Updates:
+- Create UI mockups for important screens by taking user input and usability best practices into consideration. 
+- Update the user interface (UI) to enhance data entry, navigation, and the user experience in general. 
+
+3. Mobile Compatibility Assessment:
+- Examine consumer preferences and market trends in relation to mobile platforms and devices. 
+- Determine whether creating a mobile application or making the current software more mobile-friendly is feasible. 
+
+First Sprint: Improving User Experience
+
+Review of Data Security: 
+
+Examine the compliance controls and data security procedures in place. 
+Determine any weaknesses or places where data security and privacy should be strengthened. 
+
+Assignments: 
+•	Arrange and plan sessions for user input. 
+•	Examine user comments and make a list of useful information. 
+•	Create user interface mockups for the dashboard, report creation, and audit forms. 
+•	Update the user interface using the accepted designs. 
+•	Look at options for mobile compatibility and create a summary of your findings. 
+•	Evaluate data security protocols and record suggested improvements. 
+
+Result: 
+
+By Sprint 1's conclusion, we hope to have: 
+
+•	obtained insightful information from user feedback sessions. 
+•	updated the user interface to enhance navigation and usability. 
+•	evaluated the alternatives for mobile compatibility. 
+•	determined possible improvements to data security protocols.
+
