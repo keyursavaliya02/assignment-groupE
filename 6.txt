@@ -1,0 +1,44 @@
+Question:-Discuss your experiences with the JIRA software. Do you find it easy to use? Find a competing agile project management tool. Compare and contrast the features. Which would you prefer to use? Why?
+
+Answer: - My experience with Jira software was easy to use. As Jira is developed by atlassian. It is a popular app for project management, especially for agile environment. It has lots of factor which make it easy to use such as
+
+1.	Customization: it is strongest point for using Jira. As it allows user to customize flow of work. As to customize this level of things a person must have proper knowledge, it will be hard to use for beginners.
+
+2.	User interface: Jira have great interface with lots of feature. Due to lots of feature beginner will be confused and it will be hard to learn but for experts it will be an advantage in using it.
+
+3.	Integration: Jira connect with other atlassian app very easily like bitbucket and trello, as well as with other third party app also. Due to this it will increase the outcome of a project.
+
+4.	Agile support: jira is great for agile methods, as it offers robust support for scrum and Kanban
+
+
+Competing tool: - Trello
+ 
+Trello is also owned by atlassian. Its approach to agile method is somewhat different then jira. Trello use card and board system to manage task and project.
+
+COMPARISON BETWEEN Jira & Trello
+User interface:-
+JIRA: Complex, feature-rich, Suitable for detailed and complex project management.	
+TRELLO: Simple, intuitive, suitable for less complex projects or teams new to agile methodologies.
+
+Customization:-	
+JIRA: Highly customizable with advanced options for workflows, issue types, and fields.	
+TRELLO: You can create custom boards, lists, and cards, and add Power-Ups for additional functionality.
+
+Integration:-
+JIRA: Capabilities with various tools and applications.	
+TRELLO: If we go in depth then it is less integrated then jira
+
+Agile support:-	
+JIRA: It has strong support with scrum and Kanban	
+TRELLO: It primarily support Kanban. For scrum support additional power-ups or manual configuration will required
+
+Performance:-
+JIRA: Great with large-scale project but sometime slower with complex setups	
+TRELLO: It is great and fast in performance, greatly suitable for smaller teams and simple projects
+
+Cost:-
+JIRA: More expensive	
+TRELLO: ost of feature are free
+
+Conclusion:- 
+choice between jira and trello depends on the requirement or the usage we will require in project management and the team also. Like for large or complex project I would prefer and like to use jira due to is features and detailing. But for small and simple project I would use trello as it is simple in view and interface it would make team easy to understand.
