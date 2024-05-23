@@ -38,7 +38,7 @@ TRELLO: It is great and fast in performance, greatly suitable for smaller teams 
 
 Cost:-
 JIRA: More expensive	
-TRELLO: ost of feature are free
+TRELLO: most of feature are free
 
 Conclusion:- 
 choice between jira and trello depends on the requirement or the usage we will require in project management and the team also. Like for large or complex project I would prefer and like to use jira due to is features and detailing. But for small and simple project I would use trello as it is simple in view and interface it would make team easy to understand.
